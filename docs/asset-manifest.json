@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/clothing-app/static/css/main.30009a39.chunk.css",
-    "main.js": "/clothing-app/static/js/main.a2ff4478.chunk.js",
-    "main.js.map": "/clothing-app/static/js/main.a2ff4478.chunk.js.map",
+    "main.css": "/clothing-app/static/css/main.e947b9b6.chunk.css",
+    "main.js": "/clothing-app/static/js/main.606069ea.chunk.js",
+    "main.js.map": "/clothing-app/static/js/main.606069ea.chunk.js.map",
     "runtime-main.js": "/clothing-app/static/js/runtime-main.85b77196.js",
     "runtime-main.js.map": "/clothing-app/static/js/runtime-main.85b77196.js.map",
-    "static/js/2.686ac719.chunk.js": "/clothing-app/static/js/2.686ac719.chunk.js",
-    "static/js/2.686ac719.chunk.js.map": "/clothing-app/static/js/2.686ac719.chunk.js.map",
+    "static/js/2.f82cf941.chunk.js": "/clothing-app/static/js/2.f82cf941.chunk.js",
+    "static/js/2.f82cf941.chunk.js.map": "/clothing-app/static/js/2.f82cf941.chunk.js.map",
     "index.html": "/clothing-app/index.html",
-    "precache-manifest.dcf3c31fe5a0014b0b219f7ba1fa4993.js": "/clothing-app/precache-manifest.dcf3c31fe5a0014b0b219f7ba1fa4993.js",
+    "precache-manifest.29db4877b890c862a85fbd174f62f43b.js": "/clothing-app/precache-manifest.29db4877b890c862a85fbd174f62f43b.js",
     "service-worker.js": "/clothing-app/service-worker.js",
-    "static/css/main.30009a39.chunk.css.map": "/clothing-app/static/css/main.30009a39.chunk.css.map",
-    "static/js/2.686ac719.chunk.js.LICENSE.txt": "/clothing-app/static/js/2.686ac719.chunk.js.LICENSE.txt"
+    "static/css/main.e947b9b6.chunk.css.map": "/clothing-app/static/css/main.e947b9b6.chunk.css.map",
+    "static/js/2.f82cf941.chunk.js.LICENSE.txt": "/clothing-app/static/js/2.f82cf941.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.85b77196.js",
-    "static/js/2.686ac719.chunk.js",
-    "static/css/main.30009a39.chunk.css",
-    "static/js/main.a2ff4478.chunk.js"
+    "static/js/2.f82cf941.chunk.js",
+    "static/css/main.e947b9b6.chunk.css",
+    "static/js/main.606069ea.chunk.js"
   ]
 }
