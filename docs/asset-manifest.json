@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/clothing-app/static/css/main.96b59891.chunk.css",
-    "main.js": "/clothing-app/static/js/main.7cd38c6f.chunk.js",
-    "main.js.map": "/clothing-app/static/js/main.7cd38c6f.chunk.js.map",
+    "main.js": "/clothing-app/static/js/main.f0b4db2f.chunk.js",
+    "main.js.map": "/clothing-app/static/js/main.f0b4db2f.chunk.js.map",
     "runtime-main.js": "/clothing-app/static/js/runtime-main.85b77196.js",
     "runtime-main.js.map": "/clothing-app/static/js/runtime-main.85b77196.js.map",
     "static/js/2.8e1215f3.chunk.js": "/clothing-app/static/js/2.8e1215f3.chunk.js",
     "static/js/2.8e1215f3.chunk.js.map": "/clothing-app/static/js/2.8e1215f3.chunk.js.map",
     "index.html": "/clothing-app/index.html",
-    "precache-manifest.f3c828c90c4f99c3bb3eeeaca2ee5ea3.js": "/clothing-app/precache-manifest.f3c828c90c4f99c3bb3eeeaca2ee5ea3.js",
+    "precache-manifest.3519c2f09851889340f857e9fa636cc0.js": "/clothing-app/precache-manifest.3519c2f09851889340f857e9fa636cc0.js",
     "service-worker.js": "/clothing-app/service-worker.js",
     "static/css/main.96b59891.chunk.css.map": "/clothing-app/static/css/main.96b59891.chunk.css.map",
     "static/js/2.8e1215f3.chunk.js.LICENSE.txt": "/clothing-app/static/js/2.8e1215f3.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.85b77196.js",
     "static/js/2.8e1215f3.chunk.js",
     "static/css/main.96b59891.chunk.css",
-    "static/js/main.7cd38c6f.chunk.js"
+    "static/js/main.f0b4db2f.chunk.js"
   ]
 }
