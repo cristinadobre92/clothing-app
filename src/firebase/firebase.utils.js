@@ -2,6 +2,8 @@ import firebase from "firebase/app";
 import "firebase/firestore";
 import "firebase/auth";
 
+// Firebase configuration where the data is stored
+
 const config = {
   apiKey: "AIzaSyCUQexn87d9aZ4Z23z8-BTIlP_zPUzI1cE",
   authDomain: "clothing-db-66fc4.firebaseapp.com",
@@ -12,6 +14,8 @@ const config = {
   appId: "1:538121001082:web:e00f0a1e4272c6b1ffc3c3",
   measurementId: "G-GBZ5PFP7YH",
 };
+
+// Sign-up and create a new user in firebase database
 
 export const createUserProfileDocument = async ( userAuth, additionalData ) => {
   if (!userAuth) return;
@@ -39,7 +43,7 @@ export const createUserProfileDocument = async ( userAuth, additionalData ) => {
   return userRef;
 };
 
-
+// Google sign-in button with the firebase configuration
 
 firebase.initializeApp(config);
 
